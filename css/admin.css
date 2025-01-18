@@ -1,0 +1,84 @@
+.cptsm2-filters {
+    margin: 20px 0;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.cptsm2-filters select,
+.cptsm2-filters input[type="number"] {
+    min-width: 150px;
+}
+
+.cptsm2-duplicate-group {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.cptsm2-duplicate-group h3 {
+    margin-top: 0;
+}
+
+.cptsm2-actions {
+    margin: 20px 0;
+    padding: 10px;
+    background: #f5f5f5;
+    border-top: 1px solid #ddd;
+}
+
+.cptsm2-pagination {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.cptsm2-pagination .page-numbers {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    text-decoration: none;
+}
+
+.cptsm2-pagination .current {
+    background: #0073aa;
+    color: #fff;
+    border-color: #0073aa;
+}
+
+.wp-list-table img {
+    max-width: 50px;
+    height: auto;
+}
+
+.cptsm2-product-actions {
+    display: flex;
+    gap: 5px;
+}
+
+.cptsm2-product-actions .button {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.dashicons {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+}
+
+.check-column {
+    width: 2.2em;
+    padding: 8px 10px !important;
+}
+
+.tablenav.top {
+    margin: 20px 0;
+} 

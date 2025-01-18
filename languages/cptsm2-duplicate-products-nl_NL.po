@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-25 09:15+0000\n"
+"PO-Revision-Date: 2024-11-25 09:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Duplicate Products"
+msgstr "Dubbele Producten"
+
+msgid "You do not have sufficient permissions"
+msgstr "Je hebt onvoldoende rechten"
+
+msgid "Invalid nonce"
+msgstr "Ongeldige nonce"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om deze pagina te bekijken."
+
+msgid "Selected products have been deleted successfully."
+msgstr "Geselecteerde producten zijn succesvol verwijderd."
+
+msgid "Group by Title"
+msgstr "Groeperen op Titel"
+
+msgid "Group by SKU"
+msgstr "Groeperen op SKU"
+
+msgid "Duplicate %1$s: %2$s"
+msgstr "Duplicaat %1$s: %2$s"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "View"
+msgstr "Bekijken"
+
+msgid "Delete Selected Products"
+msgstr "Geselecteerde Producten Verwijderen"
+
+msgid "Select All"
+msgstr "Alles Selecteren"
+
+msgid "Select %s"
+msgstr "Selecteer %s"
+
+msgid "Are you sure you want to delete the selected products?"
+msgstr "Weet je zeker dat je de geselecteerde producten wilt verwijderen?"
+
+msgid "Please select at least one product to delete."
+msgstr "Selecteer ten minste één product om te verwijderen."
+
+msgid "No duplicate products found."
+msgstr "Geen dubbele producten gevonden.\""

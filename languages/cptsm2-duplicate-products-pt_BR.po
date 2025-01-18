@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-25 09:15+0000\n"
+"PO-Revision-Date: 2024-11-25 09:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Duplicate Products"
+msgstr "Produtos Duplicados"
+
+msgid "You do not have sufficient permissions"
+msgstr "Você não tem permissões suficientes"
+
+msgid "Invalid nonce"
+msgstr "Nonce inválido"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar esta página."
+
+msgid "Selected products have been deleted successfully."
+msgstr "Produtos selecionados foram excluídos com sucesso."
+
+msgid "Group by Title"
+msgstr "Agrupar por Título"
+
+msgid "Group by SKU"
+msgstr "Agrupar por SKU"
+
+msgid "Duplicate %1$s: %2$s"
+msgstr "Duplicado %1$s: %2$s"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Delete Selected Products"
+msgstr "Excluir Produtos Selecionados"
+
+msgid "Select All"
+msgstr "Selecionar Todos"
+
+msgid "Select %s"
+msgstr "Selecionar %s"
+
+msgid "Are you sure you want to delete the selected products?"
+msgstr "Tem certeza que deseja excluir os produtos selecionados?"
+
+msgid "Please select at least one product to delete."
+msgstr "Por favor, selecione pelo menos um produto para excluir."
+
+msgid "No duplicate products found."
+msgstr "Nenhum produto duplicado encontrado.\""

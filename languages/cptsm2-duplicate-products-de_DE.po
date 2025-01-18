@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-24 08:58+0000\n"
+"PO-Revision-Date: 2024-12-18 18:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.7.1"
+
+#: cptsm2-duplicate-products.php:447
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: cptsm2-duplicate-products.php:448
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: cptsm2-duplicate-products.php:269
+msgid "Actions"
+msgstr "Aktionen"
+
+#: cptsm2-duplicate-products.php:361
+msgid "Are you sure you want to delete the selected products?"
+msgstr "Sind Sie sicher, dass Sie die ausgewählten Produkte löschen möchten?"
+
+#: cptsm2-duplicate-products.php:268
+msgid "Categories"
+msgstr "Kategorien"
+
+#. Name of the plugin
+msgid "Delete Duplicate Products for WooCommerce"
+msgstr "Doppelte Produkte für WooCommerce löschen"
+
+#: cptsm2-duplicate-products.php:240
+msgid "Delete Selected Products"
+msgstr "Ausgewählte Produkte löschen"
+
+#. %1$s: identifier type (Title or SKU), %2$s: the duplicate identifier
+#: cptsm2-duplicate-products.php:248
+#, php-format
+msgid "Duplicate %1$s: %2$s"
+msgstr "Duplikat %1$s: %2$s"
+
+#: cptsm2-duplicate-products.php:61 cptsm2-duplicate-products.php:62
+msgid "Duplicate Products"
+msgstr "Doppelte Produkte"
+
+#: cptsm2-duplicate-products.php:309
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Description of the plugin
+msgid "Find and delete duplicate products by title or SKU in WooCommerce."
+msgstr ""
+"Finden und löschen Sie doppelte Produkte nach Titel oder SKU in WooCommerce."
+"\""
+
+#: cptsm2-duplicate-products.php:229
+msgid "Group by SKU"
+msgstr "Nach SKU gruppieren"
+
+#: cptsm2-duplicate-products.php:222
+msgid "Group by Title"
+msgstr "Nach Titel gruppieren"
+
+#: cptsm2-duplicate-products.php:264
+msgid "Image"
+msgstr "Bild"
+
+#: cptsm2-duplicate-products.php:146
+msgid "Invalid nonce"
+msgstr "Ungültiger Nonce"
+
+#. Author of the plugin
+msgid "Luis Peel"
+msgstr "Luis Peel"
+
+#: cptsm2-duplicate-products.php:328
+msgid "No duplicate products found."
+msgstr "Keine doppelten Produkte gefunden."
+
+#: cptsm2-duplicate-products.php:362
+msgid "Please select at least one product to delete."
+msgstr "Bitte wählen Sie mindestens ein Produkt zum Löschen aus."
+
+#: cptsm2-duplicate-products.php:267
+msgid "Price"
+msgstr "Preis"
+
+#. %s: product title
+#: cptsm2-duplicate-products.php:279
+#, php-format
+msgid "Select %s"
+msgstr "%s auswählen"
+
+#: cptsm2-duplicate-products.php:258
+msgid "Select All"
+msgstr "Alle auswählen"
+
+#: cptsm2-duplicate-products.php:204
+msgid "Selected products have been deleted successfully."
+msgstr "Die ausgewählten Produkte wurden erfolgreich gelöscht."
+
+#: cptsm2-duplicate-products.php:266
+msgid "SKU"
+msgstr "SKU"
+
+#: cptsm2-duplicate-products.php:265
+msgid "Title"
+msgstr "Titel"
+
+#: cptsm2-duplicate-products.php:315
+msgid "View"
+msgstr "Ansehen"
+
+#: cptsm2-duplicate-products.php:140
+msgid "You do not have sufficient permissions"
+msgstr "Sie haben keine ausreichenden Berechtigungen"
+
+#: cptsm2-duplicate-products.php:195
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie haben keine ausreichenden Berechtigungen, um auf diese Seite zuzugreifen."
